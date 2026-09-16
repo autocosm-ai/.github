@@ -1,3 +1,5 @@
+![AutoCosm AI — Recursive Self-Improvement and World Models](https://github.com/user-attachments/assets/79ac347a-3f78-47ba-81d1-c43ec7bdd267)
+
 # Autocosm AI
 
 Autocosm AI is a research-driven AI organization focused on recursive self-improvement (RSI) and world models.
